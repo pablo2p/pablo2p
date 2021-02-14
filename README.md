@@ -2,7 +2,7 @@
 
 Entusiasta das melhores tecnologias de desenvolvimento web e mobile.
 
-- ⚡ Atualmente estudando NextJS
+- ⚡ Atualmente estudando PhaserJs e Svelte
 - 📫 Email para contato profissional: pablo2paixao@gmail.com
 
 ### Fale Comigo:
