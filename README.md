@@ -5,6 +5,8 @@ Entusiasta das melhores tecnologias de desenvolvimento web e mobile.
 - ⚡ Atualmente estudando PhaserJs e Svelte
 - 📫 Email para contato profissional: pablo2paixao@gmail.com
 
+<img src="https://github-readmeprofile.vercel.app/" />
+
 ### Fale Comigo:
 
 [<img align="left" alt="pablo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
