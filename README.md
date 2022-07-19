@@ -2,7 +2,6 @@
 
 Entusiasta das melhores tecnologias de desenvolvimento web e mobile.
 
-- ⚡ Atualmente estudando PhaserJs e Svelte
 - 📫 Email para contato profissional: pablo2paixao@gmail.com
 
 ### O Bloco abaixo é um experimento do repo: <a href="https://github.com/pablo2p/github-readme-profile">github-readme-profile</a>
